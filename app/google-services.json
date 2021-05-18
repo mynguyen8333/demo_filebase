@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603252380123",
+    "project_id": "filebasedemo-13053",
+    "storage_bucket": "filebasedemo-13053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603252380123:android:d58a2a2acda455ac1f57fe",
+        "android_client_info": {
+          "package_name": "com.example.filebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603252380123-ieegg33bfiflvfo34bdvtib03ilu13uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-eE25_wJ06OTWzlTV2aYGKzH53hhuXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603252380123-ieegg33bfiflvfo34bdvtib03ilu13uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
